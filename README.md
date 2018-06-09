@@ -93,7 +93,7 @@ What to Include
 <li>Should you include a description of a company on your resume?</li>
 <li>Is it tacky to put courses that I *plan* to take on my resume for a software engineering internship?</li>
 <li>I have an upcoming internship that is very relevant for a job I am applying to. Should I mention it on my resume?</li>
-<li>W<li>hen is a TopCoder profile/rating worth mentioning on a resume?</li>
+<li>When is a TopCoder profile/rating worth mentioning on a resume?</li>
 <li>What extra activities/accomplishments should be included in resumes today that we wouldn't have ever thought to include ten years ago?</li>
 <li>When applying to companies like Google/Palantir/Facebook, should I list my extracurricular activities on my resume if they are completely...</li>
 <li>Should someone selected as a Top Writer on Quora add it to their resume?</li>
