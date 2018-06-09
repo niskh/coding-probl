@@ -84,7 +84,7 @@ BLogs
 <li>Should the skills section of a resume include levels of proficiency?</li>
 <li>In resume terms, how to word the strength that consists in being (repeatedly) successful when thrown into a new area, learning it, building a critical mind, and delivering results?</li>
 
-What to Include
+<b>What to Include</b>
 <li>How long after graduating is it appropriate to keep university activity details on your resume?</li>
 <li>My Quora article got featured in the Huffington Post. Should I include this on my resume?</li>
 <li>Computer Science: What can a CS graduate do to improve his / her resume?</li>
@@ -101,7 +101,7 @@ What to Include
 <li>Should I say that I have been playing poker fulltime since being made redundant four years ago?</li>
 <li>What's the best way to hide an embarrassing company on your résumé?</li>
 
-Is it okay to...
+<b>Is it okay to...</b>
 <li>Is it okay to mention my failed startup on my resume?</li>
 <li>What are common mistakes that applicants make when writing their resumes for tech companies?</li>
 <li>Should I make my resume public?</li>
@@ -116,7 +116,7 @@ Resume Formats and Formatting
 <li>What are some interesting yet formal designs for a single-page resume?</li>
 Is a beautiful graphical CV better than a text-only professional one for software engineer position in technology companies?</li>
 
-Feedback on Specific Resumes
+<b>Feedback on Specific Resumes</b>
 <li>How does this resume sound for a job at a Silicon Valley company like Google, Microsoft etc?</li>
 <li>What does this CV lack for applying as a PHP web Developer?</li>
 <li>How should a professional resume writer market his business online?</li>
@@ -132,6 +132,7 @@ Feedback on Specific Resumes
 <li>Is there a point when one stops including a "skills" section on your CV?</li>
   <li>
 </ul>
+<br/>
   Recommendation :<br/>
  If you are programming with the c++ language you should master the STL,forJava language you should master the Collections, and Same for other languages<br/>
 Start practicing whiteboard coding until you feel comfortable with it.</br>
