@@ -51,3 +51,8 @@ Youtube
  <li><a href="https://www.byte-by-byte.com/">bytebybyte</a></li>
  <li><a href="https://www.hackerearth.com/">hackerearth</a></li>
  </ul>
+BLogs
+ <ul>
+ <li><a  href="http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html">Get that job at Google</a></li>
+ <li><a href="https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920">Get that job at Facebook</a></li>
+ </ul>
