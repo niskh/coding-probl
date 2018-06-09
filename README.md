@@ -90,16 +90,16 @@ BLogs
 <li><a href="https://www.quora.com/What-can-a-computer-science-graduate-do-to-improve-his-her-resume-as-projects-done-by-most-of-the-students-are-more-or-less-academic-projects-with-common-standards-across-different-universities/answer/Gayle-Laakmann-McDowell">Computer Science: What can a CS graduate do to improve his / her resume?</a></li>
 <li><a href="https://www.quora.com/Should-I-include-a-Projects-Section-on-my-resume-for-a-software-position-As-a-student-under-what-circumstance-should-I-list-them-and-when-shouldnt-I/answer/Gayle-Laakmann-McDowell">Should I include a "Projects" Section on my resume for a software position?</a></li>
 <li><a href="https://www.quora.com/Can-I-add-my-startup-company-as-experience-on-my-resume-I-am-the-CEO-Will-this-experience-be-considered-in-applying-for-a-job-or-an-MBA-course/answer/Gayle-Laakmann-McDowell">Can I add my startup company as experience on my resume?</a></li>
-<li><a href="">Should you include a description of a company on your resume?</a></li>
-<li><a href="">Is it tacky to put courses that I *plan* to take on my resume for a software engineering internship?</a></li>
-<li><a href="">I have an upcoming internship that is very relevant for a job I am applying to. Should I mention it on my resume?</a></li>
-<li><a href="">When is a TopCoder profile/rating worth mentioning on a resume?</a></li>
-<li><a href="">What extra activities/accomplishments should be included in resumes today that we wouldn't have ever thought to include ten years ago?</a></li>
-<li><a href="">When applying to companies like Google/Palantir/Facebook, should I list my extracurricular activities on my resume if they are completely...</a></li>
-<li><a href="">Should someone selected as a Top Writer on Quora add it to their resume?</a></li>
-<li><a href="">Should "Microsoft Office" be included as a skill on your Resume?</a></li>
-<li><a href="">Should I say that I have been playing poker fulltime since being made redundant four years ago?</a></li>
-<li><a href="">What's the best way to hide an embarrassing company on your résumé?</a></li>
+<li><a href="https://www.quora.com/Should-you-include-a-description-of-a-company-on-your-resume/answer/Gayle-Laakmann-McDowell">Should you include a description of a company on your resume?</a></li>
+<li><a href="https://www.quora.com/Is-it-tacky-to-put-courses-that-I-*plan*-to-take-on-my-resume-for-a-software-engineering-internship/answer/Gayle-Laakmann-McDowell">Is it tacky to put courses that I *plan* to take on my resume for a software engineering internship?</a></li>
+<li><a href="https://www.quora.com/I-have-an-upcoming-internship-that-is-very-relevant-for-a-job-I-am-applying-to-Should-I-mention-it-on-my-resume/answer/Gayle-Laakmann-McDowell">I have an upcoming internship that is very relevant for a job I am applying to. Should I mention it on my resume?</a></li>
+<li><a href="https://www.quora.com/When-is-a-TopCoder-profile-rating-worth-mentioning-on-a-resume/answer/Gayle-Laakmann-McDowell">When is a TopCoder profile/rating worth mentioning on a resume?</a></li>
+<li><a href="https://www.quora.com/What-extra-activities-accomplishments-should-be-included-in-resumes-today-that-we-wouldnt-have-ever-thought-to-include-ten-years-ago/answer/Gayle-Laakmann-McDowell">What extra activities/accomplishments should be included in resumes today that we wouldn't have ever thought to include ten years ago?</a></li>
+<li><a href="https://www.quora.com/Hiring/When-applying-to-companies-like-Google-Palantir-Facebook-should-I-list-my-extracurricular-activities-on-my-resume-if-they-are-completely-irrelevant/answer/Gayle-Laakmann-McDowell?share=1&srid=ptnX">When applying to companies like Google/Palantir/Facebook, should I list my extracurricular activities on my resume if they are completely...</a></li>
+<li><a href="https://www.quora.com/Top-Writers-Quora-program/Should-someone-selected-as-a-Top-Writer-on-Quora-add-it-to-their-resume/answer/Gayle-Laakmann-McDowell?share=1&srid=ptnX">Should someone selected as a Top Writer on Quora add it to their resume?</a></li>
+<li><a href="https://www.quora.com/R%C3%A9sum%C3%A9s-and-CVs/Should-Microsoft-Office-be-included-as-a-skill-on-your-resume/answer/Gayle-Laakmann-McDowell?share=1&srid=ptnX">Should "Microsoft Office" be included as a skill on your Resume?</a></li>
+<li><a href="https://www.quora.com/R%C3%A9sum%C3%A9s-and-CVs/Should-I-say-that-I-have-been-playing-poker-fulltime-since-being-made-redundant-four-years-ago/answer/Gayle-Laakmann-McDowell?share=1&srid=ptnX">Should I say that I have been playing poker fulltime since being made redundant four years ago?</a></li>
+<li><a href="https://www.quora.com/Whats-the-best-way-to-hide-an-embarrassing-company-on-your-r%C3%A9sum%C3%A9/answer/Gayle-Laakmann-McDowell">What's the best way to hide an embarrassing company on your résumé?</a></li>
 
 <b>Is it okay to...</b>
 <li><a href="">Is it okay to mention my failed startup on my resume?</a></li>
