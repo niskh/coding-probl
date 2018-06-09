@@ -38,3 +38,16 @@ Youtube
  <li><a href="https://www.youtube.com/channel/UCYvQTh9aUgPZmVH0wNHFa1A"> Irfan Baqui</a></li>
  <li><a href="https://www.youtube.com/user/mycodeschool">mycodeschool</a></li>
  </ul>
+ Websites
+ <ul>
+ <li><a href="https://leetcode.com/">Leetcode</a></li>
+ <li><a href="https://www.geeksforgeeks.org/">GeeksforGeeks</a></li>
+ <li><a href="https://www.careercup.com/">Careercup</a></li>
+ <li><a href="https://www.hackerrank.com/">hackerrank</a></li>
+ <li><a href="https://www.interviewbit.com/">Interviewbit</a></li>
+ <li><a href="https://interviewing.io/">interviewing.io</a></li>
+ <li><a href="https://www.pramp.com/#/">Pramp</a></li>
+ <li><a href="https://www.interviewcake.com/">interviewcake</a></li>
+ <li><a href="https://www.byte-by-byte.com/">bytebybyte</a></li>
+ <li><a href="https://www.hackerearth.com/">hackerearth</a></li>
+ </ul>
