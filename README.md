@@ -122,7 +122,7 @@ Feedback on Specific Resumes
 <li>How should a professional resume writer market his business online?</li>
 <li>Would my resume get me an interview for an internship at any of the top Silicon Valley companies?</li>
 
-Miscellaneous
+<b>Miscellaneous</b>
 <li>What are the funniest resume mistakes you've ever seen?</li>
 <li>What are some examples of great programmer resumes?</li>
 <li>What are some great websites for resumé advice & feedback?</li>
