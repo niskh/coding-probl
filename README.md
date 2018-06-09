@@ -114,7 +114,7 @@ Resume Formats and Formatting
 <li><a href="">What are the best formats you have seen for a résumé?</a></li>
 <li><a href="">Is it recommended that a software developer's resume should be made in LaTeX? What are the pros and cons of making it in LaTeX versus making it in doc/docx?</a></li>
 <li><a href="">What are some interesting yet formal designs for a single-page resume?</a></li>
-Is a beautiful graphical CV better than a text-only professional one for software engineer position in technology companies?</a></li>
+<li><a href="">Is a beautiful graphical CV better than a text-only professional one for software engineer position in technology companies?</a></li>
 
 <b>Feedback on Specific Resumes</b>
 <li><a href="">How does this resume sound for a job at a Silicon Valley company like Google, Microsoft etc?</a></li>
