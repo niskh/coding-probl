@@ -63,3 +63,8 @@ BLogs
  <li><a href="http://web.stanford.edu/dept/CTL/Oralcomm/Microsoft%20Word%20-%20How%20to%20Conduct%20Mock%20Interviews.pdf">Stanford-How to conduct a Mock interview </a></li>
  <li><a href="http://www.hsu.edu/Career/completelistofbehavioral.pdf">Complete List of Behavioral Interview Questions</a></li>
  </ul>
+ Books
+ <ul>
+ <li><a href="https://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=smartbulbre01-20&linkId=a038d912aa391d830120a58bd6cf2536">cracking the coding interview</a></li>
+ <li><a href="mazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=smartbulbre01-20&linkId=4122c143363c4988f44f7f6d9dff7158">elements of programming interviews</a></li>
+ </ul>
