@@ -15,4 +15,12 @@ so now let's start talking about the ressources:
  <li><a href="https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/README.md">Awesome Interviews</a></li>
  <li><a href="https://github.com/checkcheckzz/system-design-interview">system-design-interview</a></li>
 </ul>
+Quora:
 
+<p>This topic had been discussed many times on <a href="https://www.quora.com/">Quora</a> that's why you will find there good suggestions ,here are my favorites:</p>
+<ul>
+<li><a href="http://qr.ae/TUp7TM"> How-do-I-prepare-for-Google-and-Microsoft-interviews-from-a-no-name-college</a></li>
+ <li><a href="http://qr.ae/TUp7hX">How did you crack the software engineering interview at Google, Facebook, or Amazon?</a></li>
+ <li><a href="http://qr.ae/TUp7hk">What should I do in the next 4-6 months to get into a company like Amazon/Google?</a></li>
+ <li><a href="https://www.quora.com/How-do-I-prepare-to-answer-design-questions-in-a-technical-interview?srid=TJq1&share=a7953f39">How do I prepare to answer design questions in a technical interview?</a></li>
+</ul>
