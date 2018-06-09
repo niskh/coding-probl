@@ -17,7 +17,7 @@ so now let's start talking about the ressources:
 </ul>
 <br/>
 Facebook:
-<p></t> join this groups for better preparation:</p>
+<p>join this groups for better preparation:</p>
 <ul>
  <li><a href="https://www.facebook.com/groups/hhcodinginterviewprep/?ref=bookmarks">HH Coding Interview Prep</a></li>
  <li><a href="https://www.facebook.com/groups/ctciofficial/?ref=bookmarks">Cracking the Coding Interview [OFFICIAL DISCUSSION GROUP]</a></li>
