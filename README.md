@@ -24,3 +24,9 @@ Quora:
  <li><a href="http://qr.ae/TUp7hk">What should I do in the next 4-6 months to get into a company like Amazon/Google?</a></li>
  <li><a href="https://www.quora.com/How-do-I-prepare-to-answer-design-questions-in-a-technical-interview?srid=TJq1&share=a7953f39">How do I prepare to answer design questions in a technical interview?</a></li>
 </ul>
+Facebook:
+<p>for people who are spending a lot of time on their facebook ,you can join this groups for better preparation:</p>
+<ul>
+ <li><a href="https://www.facebook.com/groups/hhcodinginterviewprep/?ref=bookmarks">HH Coding Interview Prep</a></li>
+ <li><a href="https://www.facebook.com/groups/ctciofficial/?ref=bookmarks">Cracking the Coding Interview [OFFICIAL DISCUSSION GROUP]</a></li>
+ </ul>
