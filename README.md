@@ -56,3 +56,10 @@ BLogs
  <li><a  href="http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html">Get that job at Google</a></li>
  <li><a href="https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920">Get that job at Facebook</a></li>
  </ul>
+  Articles
+ <ul>
+ <li><a  href="https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af">I just got a developer job at Facebook. Here’s how I prepped for my interviews.</li>
+  <li><a href="https://medium.com/@nickciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc">Ace the coding interview, every time</a></li>
+ <li><a href="http://web.stanford.edu/dept/CTL/Oralcomm/Microsoft%20Word%20-%20How%20to%20Conduct%20Mock%20Interviews.pdf">Stanford-How to conduct a Mock interview </a></li>
+ <li><a href="http://www.hsu.edu/Career/completelistofbehavioral.pdf">Complete List of Behavioral Interview Questions</a></li>
+ </ul>
