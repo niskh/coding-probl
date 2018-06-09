@@ -74,62 +74,62 @@ BLogs
  <ul>
   
   <B>General Guidance</B>
-<li>Google Interview Questions: How can I get my resume shortlisted by Google for the position of software engineer?</li>
-<li>What are some simple ways to demonstrate computer science ability on a resume?
-<li>What is the exact difference between a CV and Resume?
+<li><a href="https://www.quora.com/How-can-I-get-my-resume-shortlisted-by-Google-for-the-position-of-software-engineer-Can-someone-tell-me-about-the-technical-achievements-or-any-other-details-that-Google-looks-for-on-a-resume/answer/Gayle-Laakmann-McDowell">Google Interview Questions: How can I get my resume shortlisted by Google for the position of software engineer?</a></li>
+<li><a href="https://www.quora.com/What-are-some-simple-ways-to-demonstrate-computer-science-ability-on-a-resume/answer/Gayle-Laakmann-McDowell">What are some simple ways to demonstrate computer science ability on a resume?</a></li>
+<li><a href="https://www.quora.com/What-is-the-difference-between-CV-and-resume-2/answer/Gayle-Laakmann-McDowell">What is the exact difference between a CV and Resume?</a></li>
 
 <b>How to Word Things</b>
-<li>What is the best way to list online work projects (from oDesk, Elance, etc) on your resume?</li>
-<li>How should non US citizens write their phone numbers on their resume?</li>
-<li>Should the skills section of a resume include levels of proficiency?</li>
-<li>In resume terms, how to word the strength that consists in being (repeatedly) successful when thrown into a new area, learning it, building a critical mind, and delivering results?</li>
+<li><a href="https://www.quora.com/What-is-the-best-way-to-list-online-work-projects-from-oDesk-Elance-etc-on-your-resume/answer/Gayle-Laakmann-McDowell">What is the best way to list online work projects (from oDesk, Elance, etc) on your resume?</a></li>
+<li><a href="https://www.quora.com/How-should-non-US-citizens-write-their-phone-numbers-on-their-resume/answer/Gayle-Laakmann-McDowell">How should non US citizens write their phone numbers on their resume?</a></li>
+<li><a href="https://www.quora.com/Should-the-skills-section-of-a-resume-include-levels-of-proficiency/answer/Gayle-Laakmann-McDowell">Should the skills section of a resume include levels of proficiency?</a></li>
+<li><a href="https://www.quora.com/In-resume-terms-how-should-I-word-the-strength-that-consists-of-repeatedly-being-successful-when-thrown-into-a-new-area-learning-it-building-with-a-critical-mind-and-delivering-results/answer/Gayle-Laakmann-McDowell">In resume terms, how to word the strength that consists in being (repeatedly) successful when thrown into a new area, learning it, building a critical mind, and delivering results?</a></li>
 
 <b>What to Include</b>
-<li>How long after graduating is it appropriate to keep university activity details on your resume?</li>
-<li>My Quora article got featured in the Huffington Post. Should I include this on my resume?</li>
-<li>Computer Science: What can a CS graduate do to improve his / her resume?</li>
-<li>Should I include a "Projects" Section on my resume for a software position?</li>
-<li>Can I add my startup company as experience on my resume?</li>
-<li>Should you include a description of a company on your resume?</li>
-<li>Is it tacky to put courses that I *plan* to take on my resume for a software engineering internship?</li>
-<li>I have an upcoming internship that is very relevant for a job I am applying to. Should I mention it on my resume?</li>
-<li>When is a TopCoder profile/rating worth mentioning on a resume?</li>
-<li>What extra activities/accomplishments should be included in resumes today that we wouldn't have ever thought to include ten years ago?</li>
-<li>When applying to companies like Google/Palantir/Facebook, should I list my extracurricular activities on my resume if they are completely...</li>
-<li>Should someone selected as a Top Writer on Quora add it to their resume?</li>
-<li>Should "Microsoft Office" be included as a skill on your Resume?</li>
-<li>Should I say that I have been playing poker fulltime since being made redundant four years ago?</li>
-<li>What's the best way to hide an embarrassing company on your résumé?</li>
+<li><a href="https://www.quora.com/How-long-after-graduating-is-it-appropriate-to-keep-university-activity-details-on-your-resume/answer/Gayle-Laakmann-McDowell">How long after graduating is it appropriate to keep university activity details on your resume?</a></li>
+<li><a href="https://www.quora.com/My-Quora-article-got-featured-in-the-Huffington-Post-Should-I-include-this-on-my-r%C3%A9sum%C3%A9/answer/Gayle-Laakmann-McDowell">My Quora article got featured in the Huffington Post. Should I include this on my resume?</a></li>
+<li><a href="https://www.quora.com/What-can-a-computer-science-graduate-do-to-improve-his-her-resume-as-projects-done-by-most-of-the-students-are-more-or-less-academic-projects-with-common-standards-across-different-universities/answer/Gayle-Laakmann-McDowell">Computer Science: What can a CS graduate do to improve his / her resume?</a></li>
+<li><a href="https://www.quora.com/Should-I-include-a-Projects-Section-on-my-resume-for-a-software-position-As-a-student-under-what-circumstance-should-I-list-them-and-when-shouldnt-I/answer/Gayle-Laakmann-McDowell">Should I include a "Projects" Section on my resume for a software position?</a></li>
+<li><a href="https://www.quora.com/Can-I-add-my-startup-company-as-experience-on-my-resume-I-am-the-CEO-Will-this-experience-be-considered-in-applying-for-a-job-or-an-MBA-course/answer/Gayle-Laakmann-McDowell">Can I add my startup company as experience on my resume?</a></li>
+<li><a href="">Should you include a description of a company on your resume?</a></li>
+<li><a href="">Is it tacky to put courses that I *plan* to take on my resume for a software engineering internship?</a></li>
+<li><a href="">I have an upcoming internship that is very relevant for a job I am applying to. Should I mention it on my resume?</a></li>
+<li><a href="">When is a TopCoder profile/rating worth mentioning on a resume?</a></li>
+<li><a href="">What extra activities/accomplishments should be included in resumes today that we wouldn't have ever thought to include ten years ago?</a></li>
+<li><a href="">When applying to companies like Google/Palantir/Facebook, should I list my extracurricular activities on my resume if they are completely...</a></li>
+<li><a href="">Should someone selected as a Top Writer on Quora add it to their resume?</a></li>
+<li><a href="">Should "Microsoft Office" be included as a skill on your Resume?</a></li>
+<li><a href="">Should I say that I have been playing poker fulltime since being made redundant four years ago?</a></li>
+<li><a href="">What's the best way to hide an embarrassing company on your résumé?</a></li>
 
 <b>Is it okay to...</b>
-<li>Is it okay to mention my failed startup on my resume?</li>
-<li>What are common mistakes that applicants make when writing their resumes for tech companies?</li>
-<li>Should I make my resume public?</li>
-<li>Is it okay to mention StackOverflow reputation in my resume?</li>
-<li>If my GPA is low, should I just "forget" to mention it on my resume?</li>
-<li>Can I put my major GPA on my résumé instead of my cumulative GPA?</li>
-<li>Is there real danger for one to embellish parts of their resume?</li>
-<li>Is it a good idea to mention that I cleared MENSA's entrance test on my resume?</li>
+<li><a href="">Is it okay to mention my failed startup on my resume?</a></li>
+<li><a href="">What are common mistakes that applicants make when writing their resumes for tech companies?</a></li>
+<li><a href="">Should I make my resume public?</a></li>
+<li><a href="">Is it okay to mention StackOverflow reputation in my resume?</a></li>
+<li><a href="">If my GPA is low, should I just "forget" to mention it on my resume?</a></li>
+<li><a href="">Can I put my major GPA on my résumé instead of my cumulative GPA?</a></li>
+<li><a href="">Is there real danger for one to embellish parts of their resume?</a></li>
+<li><a href="">Is it a good idea to mention that I cleared MENSA's entrance test on my resume?</a></li>
 Resume Formats and Formatting
-<li>What are the best formats you have seen for a résumé?</li>
-<li>Is it recommended that a software developer's resume should be made in LaTeX? What are the pros and cons of making it in LaTeX versus making it in doc/docx?</li>
-<li>What are some interesting yet formal designs for a single-page resume?</li>
-Is a beautiful graphical CV better than a text-only professional one for software engineer position in technology companies?</li>
+<li><a href="">What are the best formats you have seen for a résumé?</a></li>
+<li><a href="">Is it recommended that a software developer's resume should be made in LaTeX? What are the pros and cons of making it in LaTeX versus making it in doc/docx?</a></li>
+<li><a href="">What are some interesting yet formal designs for a single-page resume?</a></li>
+Is a beautiful graphical CV better than a text-only professional one for software engineer position in technology companies?</a></li>
 
 <b>Feedback on Specific Resumes</b>
-<li>How does this resume sound for a job at a Silicon Valley company like Google, Microsoft etc?</li>
-<li>What does this CV lack for applying as a PHP web Developer?</li>
-<li>How should a professional resume writer market his business online?</li>
-<li>Would my resume get me an interview for an internship at any of the top Silicon Valley companies?</li>
+<li><a href="">How does this resume sound for a job at a Silicon Valley company like Google, Microsoft etc?</a></li>
+<li><a href="">What does this CV lack for applying as a PHP web Developer?</a></li>
+<li><a href="">How should a professional resume writer market his business online?</a></li>
+<li><a href="">Would my resume get me an interview for an internship at any of the top Silicon Valley companies?</a></li>
 
 <b>Miscellaneous</b>
-<li>What are the funniest resume mistakes you've ever seen?</li>
-<li>What are some examples of great programmer resumes?</li>
-<li>What are some great websites for resumé advice & feedback?</li>
-<li>What are some interesting coding projects that I can complete in 7-14 days to build my resume for a summer internship?</li>
-<li>Lately, people have said that my resume looks great and I will be an asset to any company doing xyz. Are they being honest or just being nice?</li>
-<li>What do I list as my address if I am in the process of relocating?</li>
-<li>Is there a point when one stops including a "skills" section on your CV?</li>
+<li><a href="">What are the funniest resume mistakes you've ever seen?</a></li>
+<li><a href="">What are some examples of great programmer resumes?</a></li>
+<li><a href="">What are some great websites for resumé advice & feedback?</a></li>
+<li><a href="">What are some interesting coding projects that I can complete in 7-14 days to build my resume for a summer internship?</li>
+<li><a href="">Lately, people have said that my resume looks great and I will be an asset to any company doing xyz. Are they being honest or just being nice?</a></li>
+<li><a href="">What do I list as my address if I am in the process of relocating?</a></li>
+<li><a href="">Is there a point when one stops including a "skills" section on your CV?</a></li>
  
 </ul>
 <br/>
