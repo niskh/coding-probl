@@ -78,7 +78,7 @@ BLogs
 <li>What are some simple ways to demonstrate computer science ability on a resume?
 <li>What is the exact difference between a CV and Resume?
 
-How to Word Things
+<b>How to Word Things</b>
 <li>What is the best way to list online work projects (from oDesk, Elance, etc) on your resume?</li>
 <li>How should non US citizens write their phone numbers on their resume?</li>
 <li>Should the skills section of a resume include levels of proficiency?</li>
