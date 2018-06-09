@@ -130,7 +130,7 @@ Is a beautiful graphical CV better than a text-only professional one for softwar
 <li>Lately, people have said that my resume looks great and I will be an asset to any company doing xyz. Are they being honest or just being nice?</li>
 <li>What do I list as my address if I am in the process of relocating?</li>
 <li>Is there a point when one stops including a "skills" section on your CV?</li>
-  <li>
+ 
 </ul>
 <br/>
   Recommendation :<br/>
