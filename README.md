@@ -15,15 +15,7 @@ so now let's start talking about the ressources:
  <li><a href="https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/README.md">Awesome Interviews</a></li>
  <li><a href="https://github.com/checkcheckzz/system-design-interview">system-design-interview</a></li>
 </ul>
-Quora:
 
-<p>This topic had been discussed many times on <a href="https://www.quora.com/">Quora</a> that's why you will find there good suggestions ,here are my favorites:</p>
-<ul>
-<li><a href="http://qr.ae/TUp7TM"> How-do-I-prepare-for-Google-and-Microsoft-interviews-from-a-no-name-college</a></li>
- <li><a href="http://qr.ae/TUp7hX">How did you crack the software engineering interview at Google, Facebook, or Amazon?</a></li>
- <li><a href="http://qr.ae/TUp7hk">What should I do in the next 4-6 months to get into a company like Amazon/Google?</a></li>
- <li><a href="https://www.quora.com/How-do-I-prepare-to-answer-design-questions-in-a-technical-interview?srid=TJq1&share=a7953f39">How do I prepare to answer design questions in a technical interview?</a></li>
-</ul>
 Facebook:
 <p>for people who are spending a lot of time on their facebook ,you can join this groups for better preparation:</p>
 <ul>
@@ -50,6 +42,7 @@ Youtube
  <li><a href="https://www.interviewcake.com/">interviewcake</a></li>
  <li><a href="https://www.byte-by-byte.com/">bytebybyte</a></li>
  <li><a href="https://www.hackerearth.com/">hackerearth</a></li>
+ <li><a href="/www.glassdoor.com">Glassdoor</a></href>
  </ul>
 BLogs
  <ul>
@@ -68,6 +61,77 @@ BLogs
  <li><a href="https://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=smartbulbre01-20&linkId=a038d912aa391d830120a58bd6cf2536">cracking the coding interview</a></li>
  <li><a href="mazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=smartbulbre01-20&linkId=4122c143363c4988f44f7f6d9dff7158">elements of programming interviews</a></li>
  </ul>
+ Quora:
+
+<p>This topic had been discussed many times on <a href="https://www.quora.com/">Quora</a> that's why you will find there good suggestions ,here are my favorites:</p>
+<ul>
+<li><a href="http://qr.ae/TUp7TM"> How-do-I-prepare-for-Google-and-Microsoft-interviews-from-a-no-name-college</a></li>
+ <li><a href="http://qr.ae/TUp7hX">How did you crack the software engineering interview at Google, Facebook, or Amazon?</a></li>
+ <li><a href="http://qr.ae/TUp7hk">What should I do in the next 4-6 months to get into a company like Amazon/Google?</a></li>
+ <li><a href="https://www.quora.com/How-do-I-prepare-to-answer-design-questions-in-a-technical-interview?srid=TJq1&share=a7953f39">How do I prepare to answer design questions in a technical interview?</a></li>
+ <br/>
+ Here's a complete list of answers by  Gayle Laakmann McDowell,the author of Cracking the coding interview <br/>
+ <ul>
+  
+  <B>General Guidance</B>
+<li>Google Interview Questions: How can I get my resume shortlisted by Google for the position of software engineer?</li>
+<li>What are some simple ways to demonstrate computer science ability on a resume?
+<li>What is the exact difference between a CV and Resume?
+
+How to Word Things
+<li>What is the best way to list online work projects (from oDesk, Elance, etc) on your resume?</li>
+<li>How should non US citizens write their phone numbers on their resume?</li>
+<li>Should the skills section of a resume include levels of proficiency?</li>
+<li>In resume terms, how to word the strength that consists in being (repeatedly) successful when thrown into a new area, learning it, building a critical mind, and delivering results?</li>
+
+What to Include
+<li>How long after graduating is it appropriate to keep university activity details on your resume?</li>
+<li>My Quora article got featured in the Huffington Post. Should I include this on my resume?</li>
+<li>Computer Science: What can a CS graduate do to improve his / her resume?</li>
+<li>Should I include a "Projects" Section on my resume for a software position?</li>
+<li>Can I add my startup company as experience on my resume?</li>
+<li>Should you include a description of a company on your resume?</li>
+<li>Is it tacky to put courses that I *plan* to take on my resume for a software engineering internship?</li>
+<li>I have an upcoming internship that is very relevant for a job I am applying to. Should I mention it on my resume?</li>
+<li>W<li>hen is a TopCoder profile/rating worth mentioning on a resume?</li>
+<li>What extra activities/accomplishments should be included in resumes today that we wouldn't have ever thought to include ten years ago?</li>
+<li>When applying to companies like Google/Palantir/Facebook, should I list my extracurricular activities on my resume if they are completely...</li>
+<li>Should someone selected as a Top Writer on Quora add it to their resume?</li>
+<li>Should "Microsoft Office" be included as a skill on your Resume?</li>
+<li>Should I say that I have been playing poker fulltime since being made redundant four years ago?</li>
+<li>What's the best way to hide an embarrassing company on your résumé?</li>
+
+Is it okay to...
+<li>Is it okay to mention my failed startup on my resume?</li>
+<li>What are common mistakes that applicants make when writing their resumes for tech companies?</li>
+<li>Should I make my resume public?</li>
+<li>Is it okay to mention StackOverflow reputation in my resume?</li>
+<li>If my GPA is low, should I just "forget" to mention it on my resume?</li>
+<li>Can I put my major GPA on my résumé instead of my cumulative GPA?</li>
+<li>Is there real danger for one to embellish parts of their resume?</li>
+<li>Is it a good idea to mention that I cleared MENSA's entrance test on my resume?</li>
+Resume Formats and Formatting
+<li>What are the best formats you have seen for a résumé?</li>
+<li>Is it recommended that a software developer's resume should be made in LaTeX? What are the pros and cons of making it in LaTeX versus making it in doc/docx?</li>
+<li>What are some interesting yet formal designs for a single-page resume?</li>
+Is a beautiful graphical CV better than a text-only professional one for software engineer position in technology companies?</li>
+
+Feedback on Specific Resumes
+<li>How does this resume sound for a job at a Silicon Valley company like Google, Microsoft etc?</li>
+<li>What does this CV lack for applying as a PHP web Developer?</li>
+<li>How should a professional resume writer market his business online?</li>
+<li>Would my resume get me an interview for an internship at any of the top Silicon Valley companies?</li>
+
+Miscellaneous
+<li>What are the funniest resume mistakes you've ever seen?</li>
+<li>What are some examples of great programmer resumes?</li>
+<li>What are some great websites for resumé advice & feedback?</li>
+<li>What are some interesting coding projects that I can complete in 7-14 days to build my resume for a summer internship?</li>
+<li>Lately, people have said that my resume looks great and I will be an asset to any company doing xyz. Are they being honest or just being nice?</li>
+<li>What do I list as my address if I am in the process of relocating?</li>
+<li>Is there a point when one stops including a "skills" section on your CV?</li>
+  <li>
+</ul>
   Recommendation :<br/>
  If you are programming with the c++ language you should master the STL,forJava language you should master the Collections, and Same for other languages<br/>
 Start practicing whiteboard coding until you feel comfortable with it.</br>
