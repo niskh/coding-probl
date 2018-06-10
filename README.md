@@ -119,18 +119,18 @@ BLogs
 
 <b>Feedback on Specific Resumes</b>
 <li><a href="https://www.quora.com/How-does-this-resume-sound-for-a-job-at-a-Silicon-Valley-company-like-Google-and-Microsoft/answer/Gayle-Laakmann-McDowell">How does this resume sound for a job at a Silicon Valley company like Google, Microsoft etc?</a></li>
-<li><a href="">What does this CV lack for applying as a PHP web Developer?</a></li>
-<li><a href="">How should a professional resume writer market his business online?</a></li>
-<li><a href="">Would my resume get me an interview for an internship at any of the top Silicon Valley companies?</a></li>
+<li><a href="https://www.quora.com/What-does-this-CV-lack-for-applying-as-a-PHP-web-Developer/answer/Gayle-Laakmann-McDowell">What does this CV lack for applying as a PHP web Developer?</a></li>
+<li><a href="https://www.quora.com/How-should-a-professional-resume-writer-market-his-business-online/answer/Gayle-Laakmann-McDowell">How should a professional resume writer market his business online?</a></li>
+<li><a href="https://www.quora.com/Would-my-resume-get-me-an-interview-for-an-internship-at-any-of-the-top-Silicon-Valley-companies">Would my resume get me an interview for an internship at any of the top Silicon Valley companies?</a></li>
 
 <b>Miscellaneous</b>
-<li><a href="">What are the funniest resume mistakes you've ever seen?</a></li>
-<li><a href="">What are some examples of great programmer resumes?</a></li>
-<li><a href="">What are some great websites for resumé advice & feedback?</a></li>
-<li><a href="">What are some interesting coding projects that I can complete in 7-14 days to build my resume for a summer internship?</li>
-<li><a href="">Lately, people have said that my resume looks great and I will be an asset to any company doing xyz. Are they being honest or just being nice?</a></li>
-<li><a href="">What do I list as my address if I am in the process of relocating?</a></li>
-<li><a href="">Is there a point when one stops including a "skills" section on your CV?</a></li>
+<li><a href="https://www.quora.com/What-are-the-funniest-resume-mistakes-youve-ever-seen/answer/Gayle-Laakmann-McDowell">What are the funniest resume mistakes you've ever seen?</a></li>
+<li><a href="https://www.quora.com/What-are-some-examples-of-great-programmer-resumes/answer/Gayle-Laakmann-McDowell">What are some examples of great programmer resumes?</a></li>
+<li><a href="https://www.quora.com/What-are-some-great-websites-for-resum%C3%A9-advice-feedback-1/answer/Gayle-Laakmann-McDowell">What are some great websites for resumé advice & feedback?</a></li>
+<li><a href="https://www.quora.com/What-are-some-interesting-coding-projects-that-I-can-complete-in-7-14-days-to-build-my-resume-for-a-summer-internship/answer/Gayle-Laakmann-McDowell">What are some interesting coding projects that I can complete in 7-14 days to build my resume for a summer internship?</li>
+<li><a href="https://www.quora.com/Lately-people-have-said-that-my-resume-looks-great-and-I-will-be-an-asset-to-any-company-doing-xyz-Are-they-being-honest-or-just-being-nice/answer/Gayle-Laakmann-McDowell">Lately, people have said that my resume looks great and I will be an asset to any company doing xyz. Are they being honest or just being nice?</a></li>
+<li><a href="https://www.quora.com/R%C3%A9sum%C3%A9s-and-CVs/What-do-I-list-as-my-address-if-I-am-in-the-process-of-relocating/answer/Gayle-Laakmann-McDowell?share=1&srid=ptnX">What do I list as my address if I am in the process of relocating?</a></li>
+<li><a href="https://www.quora.com/R%C3%A9sum%C3%A9s-and-CVs/Is-there-a-point-when-one-stops-including-a-skills-section-on-your-CV-Or-should-this-section-always-be-there/answer/Gayle-Laakmann-McDowell?share=1&srid=ptnX">Is there a point when one stops including a "skills" section on your CV?</a></li>
  
 </ul>
 <br/>
