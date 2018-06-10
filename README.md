@@ -109,15 +109,15 @@ BLogs
 <li><a href="https://www.quora.com/If-my-GPA-is-low-should-I-remove-it-from-my-resume/answer/Gayle-Laakmann-McDowell">If my GPA is low, should I just "forget" to mention it on my resume?</a></li>
 <li><a href="https://www.quora.com/Can-I-put-my-major-GPA-on-my-resume-instead-of-my-cumulative-GPA/answer/Gayle-Laakmann-McDowell">Can I put my major GPA on my résumé instead of my cumulative GPA?</a></li>
 <li><a href="https://www.quora.com/Is-there-real-danger-for-one-to-embellish-parts-of-their-resume/answer/Gayle-Laakmann-McDowell?share=1&srid=ptnX">Is there real danger for one to embellish parts of their resume?</a></li>
-<li><a href="">Is it a good idea to mention that I cleared MENSA's entrance test on my resume?</a></li>
+<li><a href="https://www.quora.com/Career-Advice/Is-it-a-good-idea-to-mention-that-I-cleared-Mensas-entrance-test-on-my-resume/answer/Gayle-Laakmann-McDowell?share=1&srid=ptnX">Is it a good idea to mention that I cleared MENSA's entrance test on my resume?</a></li>
 Resume Formats and Formatting
-<li><a href="">What are the best formats you have seen for a résumé?</a></li>
-<li><a href="">Is it recommended that a software developer's resume should be made in LaTeX? What are the pros and cons of making it in LaTeX versus making it in doc/docx?</a></li>
-<li><a href="">What are some interesting yet formal designs for a single-page resume?</a></li>
-<li><a href="">Is a beautiful graphical CV better than a text-only professional one for software engineer position in technology companies?</a></li>
+<li><a href="https://www.quora.com/What-are-the-best-formats-for-a-resume/answer/Gayle-Laakmann-McDowell">What are the best formats you have seen for a résumé?</a></li>
+<li><a href="https://www.quora.com/Is-it-recommended-that-a-software-developers-resume-should-be-made-in-LaTeX/answer/Gayle-Laakmann-McDowell">Is it recommended that a software developer's resume should be made in LaTeX? What are the pros and cons of making it in LaTeX versus making it in doc/docx?</a></li>
+<li><a href="https://www.quora.com/What-are-some-interesting-yet-formal-designs-for-a-single-page-resume/answer/Gayle-Laakmann-McDowell">What are some interesting yet formal designs for a single-page resume?</a></li>
+<li><a href="https://www.quora.com/R%C3%A9sum%C3%A9s-and-CVs/Is-a-beautiful-graphical-CV-better-than-a-text-only-professional-one-for-a-software-engineering-position-in-technology-companies-Are-they-considered-as-unprofessional/answer/Gayle-Laakmann-McDowell?share=1&srid=ptnX">Is a beautiful graphical CV better than a text-only professional one for software engineer position in technology companies?</a></li>
 
 <b>Feedback on Specific Resumes</b>
-<li><a href="">How does this resume sound for a job at a Silicon Valley company like Google, Microsoft etc?</a></li>
+<li><a href="https://www.quora.com/How-does-this-resume-sound-for-a-job-at-a-Silicon-Valley-company-like-Google-and-Microsoft/answer/Gayle-Laakmann-McDowell">How does this resume sound for a job at a Silicon Valley company like Google, Microsoft etc?</a></li>
 <li><a href="">What does this CV lack for applying as a PHP web Developer?</a></li>
 <li><a href="">How should a professional resume writer market his business online?</a></li>
 <li><a href="">Would my resume get me an interview for an internship at any of the top Silicon Valley companies?</a></li>
