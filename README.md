@@ -69,6 +69,7 @@ BLogs
  <li><a href="http://qr.ae/TUp7hX">How did you crack the software engineering interview at Google, Facebook, or Amazon?</a></li>
  <li><a href="http://qr.ae/TUp7hk">What should I do in the next 4-6 months to get into a company like Amazon/Google?</a></li>
  <li><a href="https://www.quora.com/How-do-I-prepare-to-answer-design-questions-in-a-technical-interview?srid=TJq1&share=a7953f39">How do I prepare to answer design questions in a technical interview?</a></li>
+ <li><a href="https://www.quora.com/How-do-I-approach-system-design-questions/answer/Gaurav-Sen-6?share=c00faeab&srid=2k4y">How do I approach system design questions?</a></li>
  <br/>
  Here's a complete list of answers by  Gayle Laakmann McDowell,the author of Cracking the coding interview <br/>
  <ul>
