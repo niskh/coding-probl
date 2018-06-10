@@ -104,9 +104,9 @@ BLogs
 <b>Is it okay to...</b>
 <li><a href="https://www.quora.com/Is-it-okay-to-mention-Stack-Overflow-reputation-points-in-my-resume/answer/Gayle-Laakmann-McDowell">Is it okay to mention my failed startup on my resume?</a></li>
 <li><a href="https://www.quora.com/What-are-common-mistakes-that-applicants-make-when-writing-their-resumes-for-tech-companies-mainly-for-software-engineering-positions/answer/Gayle-Laakmann-McDowell">What are common mistakes that applicants make when writing their resumes for tech companies?</a></li>
-<li><a href="">Should I make my resume public?</a></li>
-<li><a href="">Is it okay to mention StackOverflow reputation in my resume?</a></li>
-<li><a href="">If my GPA is low, should I just "forget" to mention it on my resume?</a></li>
+<li><a href="https://www.quora.com/Should-I-make-my-resume-public/answer/Gayle-Laakmann-McDowell">Should I make my resume public?</a></li>
+<li><a href="https://www.quora.com/Is-it-okay-to-mention-Stack-Overflow-reputation-points-in-my-resume/answer/Gayle-Laakmann-McDowell">Is it okay to mention StackOverflow reputation in my resume?</a></li>
+<li><a href="https://www.quora.com/If-my-GPA-is-low-should-I-remove-it-from-my-resume/answer/Gayle-Laakmann-McDowell">If my GPA is low, should I just "forget" to mention it on my resume?</a></li>
 <li><a href="">Can I put my major GPA on my résumé instead of my cumulative GPA?</a></li>
 <li><a href="">Is there real danger for one to embellish parts of their resume?</a></li>
 <li><a href="">Is it a good idea to mention that I cleared MENSA's entrance test on my resume?</a></li>
