@@ -71,6 +71,7 @@ BLogs
  <li><a href="https://www.quora.com/How-do-I-prepare-to-answer-design-questions-in-a-technical-interview?srid=TJq1&share=a7953f39">How do I prepare to answer design questions in a technical interview?</a></li>
  <li><a href="https://www.quora.com/How-do-I-approach-system-design-questions/answer/Gaurav-Sen-6?share=c00faeab&srid=2k4y">How do I approach system design questions?</a></li>
  <li><a href="http://qr.ae/TUptM7">What is a typical job interview at Google like?</a></li>
+ <li><a href="http://qr.ae/TUp9dT">Are most of the programming problems in technical interviews, at software companies like Google, equivalent to the hard, medium, or easy problems on HackerRank or LeetCode? Are you well prepared when you know how to solve the medium challenges?</a></li></ul>
  <br/>
  Here's a complete list of answers by  Gayle Laakmann McDowell,the author of Cracking the coding interview <br/>
  <ul>
