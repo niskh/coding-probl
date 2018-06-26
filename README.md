@@ -14,6 +14,7 @@ so now let's start talking about the ressources:
  <li><a href="https://github.com/kilimchoi/engineering-blogs">engineering-blogs</a></li>
  <li><a href="https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/README.md">Awesome Interviews</a></li>
  <li><a href="https://github.com/checkcheckzz/system-design-interview">system-design-interview</a></li>
+ <li><a href="https://github.com/donnemartin/system-design-primer">system-design-primer</a></li>
 </ul>
 <br/>
 Facebook:
