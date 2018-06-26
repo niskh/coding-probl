@@ -72,6 +72,7 @@ BLogs
  <li><a href="https://www.interviewbit.com/courses/system-design/">interview bit</a></li>
  <li><a href="https://github.com/checkcheckzz/system-design-interview">Github:system-design-interview</a></li>
  <li><a href="https://github.com/donnemartin/system-design-primer">Github: system-design-primer</a></li>
+ <li><a href="http://blog.gainlo.co/index.php/category/system-design-interview-questions/">system-design-interview-questions</a></li>
  </ul>
  Quora:
 
