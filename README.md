@@ -23,12 +23,25 @@ Facebook:
  <li><a href="https://www.facebook.com/groups/ctciofficial/?ref=bookmarks">Cracking the Coding Interview [OFFICIAL DISCUSSION GROUP]</a></li>
  </ul>
 Youtube
- <ul>
+ <ul><li><b>Channels</b></li>
  <li><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/index.htm">MIT:Introduction to Algorithms</a></li>
 <li><a href="https://www.youtube.com/channel/UCliJsnOQEU9ZkWEE7Vtryng/videos">Design and Analysis of Algorithms</a></li>
  <li><a href="https://www.youtube.com/channel/UCILCBVnN0BAhnZuXbYLabRQ">Interview Prep</a></li>
  <li><a href="https://www.youtube.com/channel/UCYvQTh9aUgPZmVH0wNHFa1A"> Irfan Baqui</a></li>
  <li><a href="https://www.youtube.com/user/mycodeschool">mycodeschool</a></li>
+ 
+ <li><b>videos</b></li>
+<li><a href="https://www.youtube.com/watch?v=rEJzOhC5ZtQ">Gayle L McDowell - Cracking The Coding Interview</a></li>
+<li><a href="https://www.youtube.com/watch?v=BN0B4mOtwX0">Tips to Crack the Coding Interview with Gayle Laakmann McDowell</a></li>
+<li><a href="https://www.youtube.com/watch?v=ko-KkSmp-Lk">How to: Prepare for a Google Engineering Interview</a></li>
+<li><a href="https://www.youtube.com/watch?v=k-baHBzWe4k">How to: Work at Google — How We Hire</a></li>
+<li> <a href="https://www.youtube.com/watch?v=E2dMmdewRxE">Ask a Google Engineer — How to Noticed and Get an Interview at Google</a></li> 
+<li><a href="https://www.youtube.com/watch?v=IWIi3C8Md_E">Ask a Google Engineer — What is the Interview Process at Google?</a></li>
+<li><a href="https://www.youtube.com/watch?v=1BGAdJ_0FH0">Ask a Google Engineer — How to Work at Google: Prospective Employee Qualities</a></li>
+<li><a href="https://www.youtube.com/watch?v=uQdy914JRKQ&t=21s">How to Crack a Google Coding Interview - An Ex-Googler’s Guide</a></li>
+<li><a href="https://www.youtube.com/watch?v=FdUGRwHNGpE">How to prepare for coding interviews</a></li>
+<li><a href="https://www.youtube.com/watch?v=GBp0yIdJtUk">How to ace your technical interviews</a></li>
+<li><a href="https://www.youtube.com/watch?v=5KB5KAak6tM&t=170s">How to Succeed in any Programming Interview 2018</a></li>
  </ul>
  Websites
  <ul>
