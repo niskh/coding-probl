@@ -23,14 +23,14 @@ Facebook:
  <li><a href="https://www.facebook.com/groups/ctciofficial/?ref=bookmarks">Cracking the Coding Interview [OFFICIAL DISCUSSION GROUP]</a></li>
  </ul>
 Youtube
- <ul><li><b>Channels</b></li>
+ <ul><b>Channels</b>
  <li><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/index.htm">MIT:Introduction to Algorithms</a></li>
 <li><a href="https://www.youtube.com/channel/UCliJsnOQEU9ZkWEE7Vtryng/videos">Design and Analysis of Algorithms</a></li>
  <li><a href="https://www.youtube.com/channel/UCILCBVnN0BAhnZuXbYLabRQ">Interview Prep</a></li>
  <li><a href="https://www.youtube.com/channel/UCYvQTh9aUgPZmVH0wNHFa1A"> Irfan Baqui</a></li>
  <li><a href="https://www.youtube.com/user/mycodeschool">mycodeschool</a></li>
  
- <li><b>videos</b></li>
+ <b>videos</b>
 <li><a href="https://www.youtube.com/watch?v=rEJzOhC5ZtQ">Gayle L McDowell - Cracking The Coding Interview</a></li>
 <li><a href="https://www.youtube.com/watch?v=BN0B4mOtwX0">Tips to Crack the Coding Interview with Gayle Laakmann McDowell</a></li>
 <li><a href="https://www.youtube.com/watch?v=ko-KkSmp-Lk">How to: Prepare for a Google Engineering Interview</a></li>
