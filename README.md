@@ -162,6 +162,11 @@ BLogs
 <li><a href="https://www.quora.com/R%C3%A9sum%C3%A9s-and-CVs/Is-there-a-point-when-one-stops-including-a-skills-section-on-your-CV-Or-should-this-section-always-be-there/answer/Gayle-Laakmann-McDowell?share=1&srid=ptnX">Is there a point when one stops including a "skills" section on your CV?</a></li>
  
 </ul>
+VIDEOS
+<b> Algorithms and Data structure</b>
+<ul><li><a href="https://www.youtube.com/watch?v=HGgdcKbC5ro">Median of arrays</a></li></ul>
+
+
 <br/>
   Recommendation :<br/>
  If you are programming with the c++ language you should master the STL,forJava language you should master the Collections, and Same for other languages<br/>
