@@ -162,6 +162,9 @@ BLogs
 <li><a href="https://www.quora.com/R%C3%A9sum%C3%A9s-and-CVs/Is-there-a-point-when-one-stops-including-a-skills-section-on-your-CV-Or-should-this-section-always-be-there/answer/Gayle-Laakmann-McDowell?share=1&srid=ptnX">Is there a point when one stops including a "skills" section on your CV?</a></li>
  
 </ul>
+<a href="http://qr.ae/TUpQuY" >A collection of 500 problems with solutions in C++</a>
+
+
 VIDEOS
 <b> Algorithms and Data structure</b>
 <ul><li><a href="https://www.youtube.com/watch?v=HGgdcKbC5ro">Median of arrays</a></li></ul>
