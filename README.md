@@ -166,8 +166,14 @@ BLogs
 
 
 VIDEOS
-<b> Algorithms and Data structure</b>
+<b>Some leetcode diffuclt problems video explanation</b>
 <ul><li><a href="https://www.youtube.com/watch?v=HGgdcKbC5ro">Median of arrays</a></li></ul>
+<ul><li><a href="https://www.youtube.com/watch?v=jJPtLzq1E-Y&t=267s">N-Queens</a></li></ul>
+<ul><li><a href="https://www.youtube.com/watch?v=FO7VXDfS8Gk&t=65s">Largest square of 1's in a Matrix</a></li></ul>
+<ul><li><a href="https://www.youtube.com/watch?v=RVIh0snn4Qc">Largest rectangle in a Histogram</a></li></ul>
+<ul><li><a href="https://www.youtube.com/watch?v=4HfDrisG3MQ">king and queen on a chessboard</a></li></ul>
+<ul><li><a href="https://www.youtube.com/watch?v=EYFcQRwcqk0">K most frequent elements</a></li></ul>
+<ul><li><a href="https://www.youtube.com/watch?v=VzQ2KacyDLw">Array manipulation in place</a></li></ul>
 
 
 <br/>
