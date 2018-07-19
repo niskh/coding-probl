@@ -179,7 +179,7 @@ VIDEOS
 <li><a href="https://www.youtube.com/watch?v=VzQ2KacyDLw">Array manipulation in place</a></li>
  <li><a href="https://www.youtube.com/watch?v=IFNibRVgFBo">Burst Balloon</a></li>
  <li><a href="https://www.youtube.com/watch?v=GSBLe8cKu0s">skyline problem</a></li>
-
+</ul>
 
 <br/>
   Recommendation :<br/>
