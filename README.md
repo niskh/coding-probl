@@ -193,6 +193,8 @@ Websites to search for a job offer
 <ul><li><a href="https://www.linkedin.com/">linkedin</a></li>
  <li><a href="indeed.com">indeed</a></li>
  <li><a href="https://stackoverflow.com/">stackoverflow</a></li>
+ <li><a href="www.glassdoor.com">glassdoor</a></li>
+ <li><a href="https://angel.co/">AngelList</a></li>
  </ul>
   Recommendation :<br/>
  If you are programming with the c++ language you should master the STL,forJava language you should master the Collections, and Same for other languages<br/>
