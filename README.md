@@ -190,7 +190,7 @@ Resume Review
 
 <br/>
 Websites to search for a job offer
-<ul><li><a href="https://www.linkedin.com/>linkedin</a></li>
+<ul><li><a href="https://www.linkedin.com/">linkedin</a></li>
  <li><a href="indeed.com">indeed</a></li>
  <li><a href="https://stackoverflow.com/">stackoverflow</a></li>
  </ul>
