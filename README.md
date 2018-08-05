@@ -47,7 +47,7 @@ Youtube
 <li><a href="https://www.youtube.com/watch?v=GBp0yIdJtUk">How to ace your technical interviews</a></li>
 <li><a href="https://www.youtube.com/watch?v=5KB5KAak6tM&t=170s">How to Succeed in any Programming Interview 2018</a></li>
  </ul>
- Websites
+ Websites to prepare:
  <ul>
  <li><a href="https://leetcode.com/">Leetcode</a></li>
  <li><a href="https://www.geeksforgeeks.org/">GeeksforGeeks</a></li>
@@ -189,6 +189,11 @@ Resume Review
 <a href="https://www.theresumecenter.com/free-resume-review">The Resume Center</a>
 
 <br/>
+Websites to search for a job offer
+<ul><li><a href="https://www.linkedin.com/>linkedin</a></li>
+ <li><a href="indeed.com">indeed</a></li>
+ <li><a href="https://stackoverflow.com/">stackoverflow</a></li>
+ </ul>
   Recommendation :<br/>
  If you are programming with the c++ language you should master the STL,forJava language you should master the Collections, and Same for other languages<br/>
 Start practicing whiteboard coding until you feel comfortable with it.</br>
