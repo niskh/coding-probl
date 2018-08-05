@@ -63,6 +63,9 @@ Youtube
  </ul>
 BLogs
  <ul>
+ <li>Internship</li>
+ <li><a href="http://eulercoder.me/2017/07/summer-internship-ultimate-guide/">a guide to an get internship at your dream company </li>
+ <li>Jobs</li>
  <li><a  href="http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html">Get that job at Google</a></li>
  <li><a href="https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920">Get that job at Facebook</a></li>
  <li><a href="http://blog.gainlo.co/index.php/category/google-interview-preparation/">google-interview-preparation</a></li>
