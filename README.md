@@ -14,7 +14,7 @@ so now let's start talking about the ressources:
  <li><a href="https://github.com/andreis/interview">interview</a></li>
  <li><a href="https://github.com/kilimchoi/engineering-blogs">engineering-blogs</a></li>
  <li><a href="https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/README.md">Awesome Interviews</a></li>
- [123-Essential-JavaScript-Interview-Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions)(for js interviews)
+ [123-Essential-JavaScript-Interview-Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions)( for js interview preparation )
 </ul>
 <br/>
 Facebook:
